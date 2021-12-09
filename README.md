@@ -36,10 +36,10 @@
 ### ❤️ Let's get connected:
 
 <a href="https://www.linkedin.com/in/adriel-baez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg alt=linkedin style="margin-bottom: 5px;" width="40" height="30"/>
 </a>
 
 <a href="mailto:baez.adriel27@gmail.com" target="_blank">
-<img src=https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg alt=gmail style="margin-bottom: 5px;" />
+<img src=https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg alt=gmail style="margin-bottom: 5px;" width="40" height="30"/>
 </a>
 
