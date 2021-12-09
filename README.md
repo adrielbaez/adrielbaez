@@ -40,6 +40,6 @@
 </a>
 
 <a href="mailto:baez.adriel27@gmail.com" target="_blank">
-<img src=https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg alt=gmail style="margin-bottom: 5px;" width="40" height="30"/>
+<img src=https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg alt=gmail style="margin-bottom: 5px;" />
 </a>
 
