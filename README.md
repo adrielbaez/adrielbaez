@@ -36,7 +36,7 @@
 ### ❤️ Let's get connected:
 
 <a href="https://www.linkedin.com/in/adriel-baez/" target="_blank">
-<img src=https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg alt=linkedin style="margin-bottom: 5px;" width="40" height="30"/>
+<img src=https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="mailto:baez.adriel27@gmail.com" target="_blank">
