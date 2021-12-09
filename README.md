@@ -12,7 +12,7 @@
 
 - Mobile application development using **React Native**
 - Web development-**HTML/CSS, Javascript, Reactjs**
-- Backend development-**Nodejs, Mongo DB,SQL**
+- Backend development-**Nodejs, Mongo DB, SQL**
 
 
 <p align="left">
@@ -33,10 +33,7 @@
     </p>
 
 
-
-
-
-###  📫 How to reach me:
+### ❤️ Let's get connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AdrielBaez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/adriel-baez/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baez.adriel27@gmail.com)](mailto:baez.adriel27@gmail.com)
