@@ -1,6 +1,5 @@
 <h2 align="left">
  <abc>
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </br>
   <br> I'm Adriel, Web & Mobile Full-Stack MERN Developer  :computer:<br>
   <br>
