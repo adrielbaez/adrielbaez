@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adriel</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adriel</h1>
 <h4 align="center">Frontend Developer with a passion for creating beautiful and functional web and mobile applications. I learn and work with the latest technologies to create the best user experience possible.</h4>
 
 
