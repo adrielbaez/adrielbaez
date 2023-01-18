@@ -1,10 +1,5 @@
-<h2 align="left">
- <abc>
-</br>
-  <br> I'm Adriel, Web & Mobile Full-Stack MERN Developer  :computer:<br>
-  <br>
- </abc>
-</h2>
+<h1 align="center">Hi 👋, I'm Adriel</h1>
+<h4 align="center">Frontend Developer with a passion for creating beautiful and functional web and mobile applications. I learn and work with the latest technologies to create the best user experience possible.</h4>
 
 
 ### ⚡ Technologies and Tools I use
