@@ -5,9 +5,9 @@ Frontend Developer with a passion for creating beautiful and functional web and 
 
 ## I little bit about me
 
-✍️ &nbsp;In my free time, I enjoy hiking, gym and spending time with family.\
-💻 &nbsp;I work in the development of:
-- Mobile application with **React Native**
+✍️ &nbsp;I like hiking, gym, animals spending time with family and Coding.(JS fan btw)\
+💻 &nbsp;I write some code in:
+- Mobile applications using **React Native**
 - Web with **HTML/CSS, Javascript, ReactJS, NextJS**
 - Backend with **Nodejs, Mongo DB, SQL**
 
