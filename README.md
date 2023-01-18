@@ -1,17 +1,13 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adriel</h1>
 <h4 align="center">Frontend Developer with a passion for creating beautiful and functional web and mobile applications. I learn and work with the latest technologies to create the best user experience possible.</h4>
 
-
-
+---
 
 - Mobile application development using **React Native**
 - Web development-**HTML/CSS, Javascript, Reactjs**
 - Backend development-**Nodejs, Mongo DB, SQL**
 
-
-
-
-
+---
 
 <h2 align="center">⚡ Technologies and Tools I use </h2>
 <p align="center">
@@ -31,9 +27,7 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-
-
-
+---
 
 <h2 align="center">❤️ Let's get connected:</h2>
 
