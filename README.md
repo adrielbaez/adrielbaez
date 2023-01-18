@@ -3,9 +3,15 @@ Frontend Developer with a passion for creating beautiful and functional web and 
 
 ---
 
+## I little bit about me
+
+💻 &nbsp;I work in the development of
 - Mobile application development using **React Native**
 - Web development-**HTML/CSS, Javascript, Reactjs**
 - Backend development-**Nodejs, Mongo DB, SQL**
+🌱 &nbsp;I'm on track with learning more about MLOps, DevOps and Software Architecture.\
+✍️ &nbsp;In my free time, I enjoy hiking, gym and spending time with family.\
+✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 
 ---
 
