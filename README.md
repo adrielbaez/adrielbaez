@@ -5,14 +5,14 @@ Frontend Developer with a passion for creating beautiful and functional web and 
 
 ## I little bit about me
 
+✍️ &nbsp;In my free time, I enjoy hiking, gym and spending time with family.
 💻 &nbsp;I work in the development of:
 - Mobile application with **React Native**
-- Web with -**HTML/CSS, Javascript, Reactjs**
-- Backend with -**Nodejs, Mongo DB, SQL**
+- Web with **HTML/CSS, Javascript, ReactJS, NextJS**
+- Backend with **Nodejs, Mongo DB, SQL**
 
-🌱 &nbsp;I'm on track with learning more about NextJS and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, gym and spending time with family.\
-✉️ &nbsp;You can drop me an email at baez.adriel27@gmail.com. It will be a pleasure to talk with you!.\
+🌱 &nbsp;I'm on track with learning more about NextJS and Software Architecture.
+✉️ &nbsp;You can drop me an email at baez.adriel27@gmail.com. It will be a pleasure to talk with you!.
 
 ---
 
