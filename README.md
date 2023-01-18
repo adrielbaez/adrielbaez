@@ -1,5 +1,5 @@
-### <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adriel
-<h4 align="center">Frontend Developer with a passion for creating beautiful and functional web and mobile applications. I learn and work with the latest technologies to create the best user experience possible.</h4>
+<h1 align="left"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adriel </h1>
+<h4 align="left">Frontend Developer with a passion for creating beautiful and functional web and mobile applications. I learn and work with the latest technologies to create the best user experience possible.</h4>
 
 ---
 
@@ -9,8 +9,8 @@
 
 ---
 
-<h2 align="center">⚡ Technologies and Tools I use </h2>
-<p align="center">
+<h2 align="left">⚡ Technologies and Tools I use </h2>
+<p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -29,9 +29,9 @@
 
 ---
 
-<h2 align="center">❤️ Let's get connected:</h2>
+<h2 align="left">❤️ Let's get connected:</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/adriel-baez/" target="_blank">
 <img src=https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg alt=linkedin style="margin-bottom: 5px;" />
 </a>
