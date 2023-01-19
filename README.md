@@ -1,5 +1,5 @@
 <h1 align="left"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adriel </h1>
-Frontend Developer with a passion for creating beautiful and functional web and mobile applications. I learn and work with the latest technologies to create the best user experience possible.
+Frontend Developer with a passion for creating beautiful and functional web/mobile applications. I learn and work with the latest technologies to create the best user experience possible.
 
 ---
 
