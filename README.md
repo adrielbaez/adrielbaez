@@ -1,6 +1,6 @@
 <h1 align="left"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adriel </h1>
 
-I am a full-stack developer specialized in the MERN stack (MongoDB, Express.js, React.js, and Node.js). Additionally, I have experience in utilizing complementary technologies such as Next.js, TypeScript, Docker, AWS (Amazon Web Services), and Nest.js.
+I am a frontend developer with strong backend skills, specializing in the MERN stack (MongoDB, Express.js, React.js, and Node.js). Additionally, I have extensive experience in using complementary technologies such as Next.js, TypeScript, Docker, AWS (Amazon Web Services), and Nest.js.
 
 My primary focus is on creating modern and scalable web applications, from backend development to frontend implementation and optimization. I have experience in designing robust architectures and integrating cloud services to ensure optimal performance and high availability
 
